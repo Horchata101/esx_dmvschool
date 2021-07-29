@@ -6,7 +6,7 @@
 Realistic DMV school for ESX
 
 ## Requirements
-- [esx_license]https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_license)
+- [esx_license](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx_addons%5D/esx_license)
 
 ## Installation
 - Import `esx_dmvschool.sql` in your database
